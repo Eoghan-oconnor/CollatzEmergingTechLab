@@ -1,5 +1,5 @@
 # The number we will perform the Collatz operation on
-n = 20
+n = int(input("Enter a positive integer: "))
 
 # keep looping until we reach 1.
 # assuming the collatz conjecture is true 
